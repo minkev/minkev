@@ -16,7 +16,14 @@
 
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_min.kev/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kevinminh72@gmail.com)
+<p align="left">
+  <a href="https://github.com/your-username" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="filter: brightness(0) invert(1);" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

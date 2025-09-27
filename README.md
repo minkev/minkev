@@ -8,6 +8,7 @@
 
 
 # 💻 Language & Tool: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 

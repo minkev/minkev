@@ -15,7 +15,7 @@
   <img src="https://www.kali.org/images/kali-logo.svg" width="40" height="40"/>
 </p>
 
-# 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_min.kev/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kevinminh72@gmail.com)
 

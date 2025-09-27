@@ -11,9 +11,7 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VScode-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ### 🌐 Socials:
-<p align="left"> 
-  <a href="https://github.com/your-username" target="_blank" >
-     <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub" />
-  </a>
-  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

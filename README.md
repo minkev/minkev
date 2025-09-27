@@ -3,8 +3,6 @@
 ## About me
 
 
-### 💻 Language & Tool: 
-
 <h3 style="margin-top: 20px;">Skills</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>

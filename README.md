@@ -20,7 +20,7 @@
   <a href="https://github.com/your-username" target="_blank">
      <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>

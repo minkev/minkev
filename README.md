@@ -18,7 +18,7 @@
 ### 🌐 Socials:
 <p align="left">
   <a href="https://github.com/your-username" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="filter: brightness(5) invert(1);" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="background-color: brightness(5) invert(1);" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">

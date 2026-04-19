@@ -12,5 +12,5 @@
 ### Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kevinminh72@gmail.com&su=Liên%20hệ&body=Chào%20Kevin,)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_min.kev/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

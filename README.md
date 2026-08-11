@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 🎓 I'm a second-year Information Security student at HUTECH University.
 
@@ -34,11 +34,11 @@
 - 🗄️ Database
 - 🛡️ Cybersecurity
 
-🎯 **Current Goal:** Build a strong foundation in Cybersecurity and gradually move toward **SOC / Blue Team**.
+**Current Goal:** Build a strong foundation in Cybersecurity and gradually move toward **SOC / Blue Team**.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### 🌐 Networking
 
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-### 🔧 Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>

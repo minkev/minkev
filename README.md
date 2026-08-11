@@ -44,12 +44,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IPv4%20%2F%20IPv6-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Subnetting-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VLAN-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DHCP-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Routing-00599C?style=for-the-badge"/>
 </p>
 
 ### 💻 Programming

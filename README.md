@@ -24,9 +24,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a second-year **Information Security student at HUTECH University**.
+🎓 I'm a second-year Information Security student at HUTECH University.
 
-🔐 I'm interested in **Cybersecurity**, with a current focus on building strong fundamentals in:
+🔐 I'm interested in Cybersecurity, with a current focus on building strong fundamentals in:
 
 - 🌐 Computer Networking
 - 🐧 Linux

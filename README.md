@@ -1,11 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Tuan Minh</h1>
 <h3 align="center">INFORMATION SECURITY</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=minkev">
-    <img src="https://komarev.com/ghpvc/?username=minkev&label=Profile%20views&color=00FFFF&style=flat-square" alt="minkev's profile views" />
-  </a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 

@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Information Security Student | Cybersecurity Enthusiast
+  Information Security Student
 </h3>
 
 <p align="center">

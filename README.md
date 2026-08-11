@@ -34,8 +34,6 @@
 - 🗄️ Database
 - 🛡️ Cybersecurity
 
-🏴‍☠️ I participate in **CTF competitions** and **programming competitions such as ICPC** to improve my problem-solving skills and gain practical experience.
-
 🎯 **Current Goal:** Build a strong foundation in Cybersecurity and gradually move toward **SOC / Blue Team**.
 
 ---
